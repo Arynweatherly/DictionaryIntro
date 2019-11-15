@@ -1,0 +1,11 @@
+/Users/arynweatherly/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro
+/Users/arynweatherly/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.deps.json
+/Users/arynweatherly/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.runtimeconfig.json
+/Users/arynweatherly/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.runtimeconfig.dev.json
+/Users/arynweatherly/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.dll
+/Users/arynweatherly/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.pdb
+/Users/arynweatherly/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.csprojAssemblyReference.cache
+/Users/arynweatherly/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.AssemblyInfoInputs.cache
+/Users/arynweatherly/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.AssemblyInfo.cs
+/Users/arynweatherly/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.dll
+/Users/arynweatherly/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.pdb
