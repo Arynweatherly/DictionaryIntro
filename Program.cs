@@ -26,9 +26,7 @@ namespace DictionaryIntro
             }
 
             //Another way to declare a dictionary 
-            Dictionary<string, double> products = new Dictionary<string, double>()
-            { { "Deodorant", 4.5 }, { "Hair Brush", 8 }, { "Heidi Hair Brush", 5.25 }, { "Shampoo", 4.5 }, { "Tooth Brush", 40 },
-            };
+            Dictionary<string, double> products = new Dictionary<string, double>() { { "Deodorant", 4.5 }, { "Hair Brush", 8 }, { "Heidi Hair Brush", 5.25 }, { "Shampoo", 4.5 }, { "Tooth Brush", 40 } };
 
             //want to iterate over these and write to console something like deodorant cost 4.50
 
